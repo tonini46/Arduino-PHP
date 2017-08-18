@@ -1,0 +1,1 @@
+The fread() filesystem function in PHP will read a specified byte length into a target file. You can choose to set it to read the full byte amount of a file, or any byte amount you specify. The first parameter of the function is the file handler(fopen() variable), and the second parameter is the byte length you wish to read into the file to access data.
